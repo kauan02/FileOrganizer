@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Environment
+.env
+venv/
+.env/
+
+# macOS
+.DS_Store
+
+# Project folders
+Downloads/
+Backup/
+Organized/
+log.json
