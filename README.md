@@ -1,4 +1,4 @@
-# 🗂️ Download Organizer
+# 🗂️ File Organizer
 
 A simple Python script that automatically organizes your **Downloads** folder by file type,
 creates a **backup copy**, and logs every move in a JSON file.
